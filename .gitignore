@@ -62,3 +62,8 @@ local.properties
 
 # STS (Spring Tool Suite)
 .springBeans
+
+.classpath
+.proyect
+pom.properties
+
